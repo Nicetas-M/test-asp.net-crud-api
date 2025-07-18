@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\nikit\\source\\repos\\BookStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B29C6A57-D044-49CC-967A-A9666FA09727}|BookStore.API\\BookStore.API.csproj|c:\\users\\nikit\\source\\repos\\bookstore\\bookstore.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29C6A57-D044-49CC-967A-A9666FA09727}|BookStore.API\\BookStore.API.csproj|solutionrelative:bookstore.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B29C6A57-D044-49CC-967A-A9666FA09727}|BookStore.API\\BookStore.API.csproj|c:\\users\\nikit\\source\\repos\\bookstore\\bookstore.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B29C6A57-D044-49CC-967A-A9666FA09727}|BookStore.API\\BookStore.API.csproj|solutionrelative:bookstore.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\nikit\\source\\repos\\BookStore\\BookStore.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BookStore.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\nikit\\source\\repos\\BookStore\\BookStore.API\\WeatherForecast.cs",
+              "RelativeToolTip": "BookStore.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T13:57:56.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BooksRequest.cs",
               "DocumentMoniker": "C:\\Users\\nikit\\source\\repos\\BookStore\\BookStore.API\\Contracts\\BooksRequest.cs",
               "RelativeDocumentMoniker": "BookStore.API\\Contracts\\BooksRequest.cs",
@@ -34,12 +51,11 @@
               "RelativeToolTip": "BookStore.API\\Contracts\\BooksRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T12:43:33.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T12:43:33.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BooksResponse.cs",
               "DocumentMoniker": "C:\\Users\\nikit\\source\\repos\\BookStore\\BookStore.API\\Contracts\\BooksResponse.cs",
               "RelativeDocumentMoniker": "BookStore.API\\Contracts\\BooksResponse.cs",
@@ -47,12 +63,11 @@
               "RelativeToolTip": "BookStore.API\\Contracts\\BooksResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T09:22:43.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T09:22:43.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\nikit\\source\\repos\\BookStore\\BookStore.API\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "BookStore.API\\Controllers\\BooksController.cs",
