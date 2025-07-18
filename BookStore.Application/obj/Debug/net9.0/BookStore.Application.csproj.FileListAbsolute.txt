@@ -1,0 +1,17 @@
+C:\Users\nikit\source\repos\BookStore\BookStore.Application\bin\Debug\net9.0\BookStore.Application.deps.json
+C:\Users\nikit\source\repos\BookStore\BookStore.Application\bin\Debug\net9.0\BookStore.Application.dll
+C:\Users\nikit\source\repos\BookStore\BookStore.Application\bin\Debug\net9.0\BookStore.Application.pdb
+C:\Users\nikit\source\repos\BookStore\BookStore.Application\bin\Debug\net9.0\BookStore.Core.dll
+C:\Users\nikit\source\repos\BookStore\BookStore.Application\bin\Debug\net9.0\BookStore.DataAccess.dll
+C:\Users\nikit\source\repos\BookStore\BookStore.Application\bin\Debug\net9.0\BookStore.DataAccess.pdb
+C:\Users\nikit\source\repos\BookStore\BookStore.Application\bin\Debug\net9.0\BookStore.Core.pdb
+C:\Users\nikit\source\repos\BookStore\BookStore.Application\obj\Debug\net9.0\BookStore.Application.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\BookStore\BookStore.Application\obj\Debug\net9.0\BookStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\BookStore\BookStore.Application\obj\Debug\net9.0\BookStore.Application.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\BookStore\BookStore.Application\obj\Debug\net9.0\BookStore.Application.AssemblyInfo.cs
+C:\Users\nikit\source\repos\BookStore\BookStore.Application\obj\Debug\net9.0\BookStore.Application.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\BookStore\BookStore.Application\obj\Debug\net9.0\BookStor.D70AE061.Up2Date
+C:\Users\nikit\source\repos\BookStore\BookStore.Application\obj\Debug\net9.0\BookStore.Application.dll
+C:\Users\nikit\source\repos\BookStore\BookStore.Application\obj\Debug\net9.0\refint\BookStore.Application.dll
+C:\Users\nikit\source\repos\BookStore\BookStore.Application\obj\Debug\net9.0\BookStore.Application.pdb
+C:\Users\nikit\source\repos\BookStore\BookStore.Application\obj\Debug\net9.0\ref\BookStore.Application.dll
